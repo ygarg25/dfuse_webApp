@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-// import Latex from 'react-latex';
 import "./../Css/main.css"
-import katex from 'katex';
 var Latex = require('react-latex')
 
 
@@ -9,9 +7,6 @@ var Latex = require('react-latex')
 
 class HomeScreen extends Component {
     render() {
-        const table_style = {
-            border: "1px solid black"
-        };
         return <div className=''>
             <div className="row ">
                 <div className='col-1'></div>

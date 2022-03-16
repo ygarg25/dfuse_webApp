@@ -1,12 +1,11 @@
 import React from 'react';
-// import { NavLink } from 'react-router-dom'
 import {
     Nav,
     NavLink,
     Bars,
     NavMenu,
     NavBtn,
-    NavBtnLink,
+    // NavBtnLink,
 } from './NavbarElements.jsx';
 
 
