@@ -4,7 +4,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import styled from 'styled-components';
 
 export const Nav = styled.nav`
-// background: yellow;
+/*background: yellow; */
 height: 85px;
 display: flex;
 justify-content: space-between;
