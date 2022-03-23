@@ -12,7 +12,7 @@ class HomeScreen extends Component {
         return <div className=''>
             <div className="row " style={{
                 backgroundImage: `url("/web-Banner.jpeg")`,
-                // backgroundRepeat: 'no-repeat',
+                backgroundRepeat: 'no-repeat',
                 // width: '100%'
                 backgroundSize: 'cover',
                 height: '120vh',
