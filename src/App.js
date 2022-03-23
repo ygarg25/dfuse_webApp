@@ -9,7 +9,7 @@ import HomeScreen from "./Component/home";
 function App() {
   return (
     <div className=''>
-      <Navbar />
+      {/* <Navbar /> */}
       {/* <HomeScreen /> */}
       <div>
         <Routes>

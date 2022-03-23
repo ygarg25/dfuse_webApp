@@ -15,14 +15,19 @@ const Navbar = () => {
     return (
         <>
             <Nav>
-                <Bars />
+                {/* <Bars /> */}
 
-                <NavBtn>
-                    <NavLink to='/home' activeStyle>
-                        {/* <NavBtnLink to='/signin'>Sign In</NavBtnLink> */}
-                        dFuse
-                    </NavLink>
-                </NavBtn>
+                {/* <NavBtn> */}
+                <NavLink to='/home' activeStyle>
+                    {/* <NavBtnLink to='/signin'>Sign In</NavBtnLink> */}
+                    {/* dFuse */}
+                    <img
+                        src={require('../Assets/defuse__complete_logo.png')}
+                        style={{ maxWidth: "120px" }}
+                    />
+
+                </NavLink>
+                {/* </NavBtn> */}
 
                 <NavMenu>
 

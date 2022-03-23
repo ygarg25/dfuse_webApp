@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import "./../Css/main.css"
+import Navbar from './navbar';
 var Latex = require('react-latex')
+
 
 
 
@@ -8,17 +10,22 @@ var Latex = require('react-latex')
 class HomeScreen extends Component {
     render() {
         return <div className=''>
-            <div className="row ">
+            <div className="row " style={{
+                backgroundImage: `url("/web-Banner.jpeg")`,
+                // backgroundRepeat: 'no-repeat',
+                // width: '100%'
+                backgroundSize: 'cover',
+                height: '120vh',
+            }}>
+                <Navbar />
                 <div className='col-1'></div>
-                <div className="col-md-4 col-sm-5 p-5">
-                    <br />
-                    <br />
+                <div className="col-md-4 col-sm-5 p-5 pt-0 text-white">
                     <h2>Hi! We're <br /> dFuse</h2>
                     <p
                         // className="text-justify"
                         style={{
                             margin: '0 0 13px',
-                            color: 'black',
+                            // color: 'black',
                             display: 'inline-block',
                             fontSize: '14px',
                             fontWeight: '400',
@@ -38,17 +45,17 @@ class HomeScreen extends Component {
                     <a
                         href="#HowItWorks"
                     >
-                        <button type="button" class="btn btn-outline-dark">More About Us</button>
+                        <button type="button" class="btn btn-danger">More About Us</button>
                     </a>
                 </div>
                 <div
                     // className='col-md-7 image_block'
                     className='col-md-7 '
                 >
-                    <img
+                    {/* <img
                         // src="https://www.larvalabs.com/public/images/mattjohn-homepage-2x.png"
                         // src="https://thumbs.dreamstime.com/z/soccer-stuff-182425593.jpg"
-                        src={require('../Assets/dFuse_bomb.jpeg')}
+                        // src={require('../Assets/dFuse_bomb.jpeg')}
                         // width='800'
                         // height='600'
                         width="1000"
@@ -59,7 +66,7 @@ class HomeScreen extends Component {
                             maxWidth: "100%",
                             height: "85%"
                         }}
-                    />
+                    /> */}
                 </div>
             </div>
             <div
@@ -159,7 +166,7 @@ class HomeScreen extends Component {
                 style={{
                     // backgroundColor: "#cae3e8",
                     // backgroundImage: "linear-gradient(to bottom, #ddd6f3 ,#faaca8)",
-                    backgroundImage: "linear-gradient(to bottom, #141e30 ,#243b55)",
+                    backgroundImage: "linear-gradient(to right, #141e30 ,#243b55)",
 
                 }}
             >
