@@ -1,3 +1,104 @@
 table, th, td {
     border:1px solid black;
+    color: #FBC929;
   }
+
+  
+
+ .componenet_bg{
+  background-image: url("../../public/Public\ Assets/web-Banner-bg-2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+} 
+
+
+.home-bg {
+  background-image: url("../../public/Public\ Assets/web-Banner-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+} 
+
+.p_text {
+  
+  /* display: 'inline-block'; */
+    /* margin: 2 2 13px; */
+    font-weight: bold;
+    color: white;
+    font-size: 2rem;
+    text-align: justify;
+    display: inline-block;
+    line-height: 1.5em
+}
+
+.p_text2 {
+  
+  /* display: 'inline-block'; */
+    /* margin: 2 2 13px; */
+    font-weight: bold;
+    color: white;
+    font-size: 1.2rem;
+    text-align: justify;
+    display: inline-block;
+    line-height: 1.5em
+}
+
+
+.heading1 {
+  /* padding: 2rem; */
+  font-weight: 600;
+  color: #FF36C4;
+  font-size: 4rem;
+  line-height: 2.1;
+}
+
+.heading2 {
+  /* padding: 2rem; */
+  font-weight: 600;
+  color: #FBC929;
+  font-size: 2.5rem;
+  /* line-height: 2.1; */
+}
+
+.astro_image {
+  max-width: 90%;
+  max-height: 75%;
+  display: "block";
+  margin: "auto";
+  position: "relative";
+}
+
+
+.button-1 {
+  background-color: #FF36C4;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
