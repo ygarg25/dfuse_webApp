@@ -67,7 +67,7 @@ const Navbar = () => {
                                 Strategies
                             </Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <Link
                                 to={{
                                     pathname: '/risk',
@@ -78,7 +78,7 @@ const Navbar = () => {
                             >
                                 Risk Parity
                             </Link>
-                        </li>
+                        </li> */}
                         <li>
                             <Link
                                 to={{

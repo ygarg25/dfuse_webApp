@@ -21,7 +21,7 @@ function App() {
           <Route path="/home" element={<HomeScreen />} />
           <Route path="/howItWorks" element={<About />} />
           <Route path="/strategies" element={<Strategies />} />
-          <Route path="/risk" element={<Risk_Parity />} />
+          {/* <Route path="/risk" element={<Risk_Parity />} /> */}
           <Route path="/tokenomics" element={<Tokenomics />} />
           <Route path="/teams" element={<Teams />} />
           <Route path="/" element={<Navigate replace to="/home" />} />
