@@ -43,7 +43,7 @@ const Navbar = () => {
                         showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"
                     }>
                     <ul>
-                        <li>
+                        {/* <li>
                             <Link
                                 to={{
                                     pathname: '/howItWorks',
@@ -54,8 +54,8 @@ const Navbar = () => {
                             >
                                 About
                             </Link>
-                        </li>
-                        <li>
+                        </li> */}
+                        {/* <li>
                             <Link
                                 to={{
                                     pathname: '/strategies',
@@ -66,7 +66,7 @@ const Navbar = () => {
                             >
                                 Strategies
                             </Link>
-                        </li>
+                        </li> */}
                         {/* <li>
                             <Link
                                 to={{
@@ -79,7 +79,7 @@ const Navbar = () => {
                                 Risk Parity
                             </Link>
                         </li> */}
-                        <li>
+                        {/* <li>
                             <Link
                                 to={{
                                     pathname: '/tokenomics',
@@ -90,17 +90,19 @@ const Navbar = () => {
                             >
                                 Tokenomics
                             </Link>
-                        </li>
-                        <li><Link
-                            to={{
-                                pathname: '/teams',
-                                // hash: '#Teams',
-                                state: { isAdmin: true }
-                            }}
-                        // activeStyle
-                        >
-                            Teams
-                        </Link></li>
+                        </li> */}
+                        {/* <li>
+                            <Link
+                                to={{
+                                    pathname: '/teams',
+                                    // hash: '#Teams',
+                                    state: { isAdmin: true }
+                                }}
+                            // activeStyle
+                            >
+                                Teams
+                            </Link>
+                        </li> */}
                     </ul>
                 </div>
 

@@ -12,18 +12,18 @@ import './Css/App.css';
 function App() {
   return (
     <div className=''>
-      <Navbar />
+      {/* <Navbar /> */}
       {/* <HomeScreen /> */}
       <div>
         <Routes>
           {/* <Route path="/student/:name" component={EditStudent} /> */}
           {/* <Route path="/allStudent" render={props => <Show {...props} />} /> */}
           <Route path="/home" element={<HomeScreen />} />
-          <Route path="/howItWorks" element={<About />} />
-          <Route path="/strategies" element={<Strategies />} />
+          {/* <Route path="/howItWorks" element={<About />} /> */}
+          {/* <Route path="/strategies" element={<Strategies />} /> */}
           {/* <Route path="/risk" element={<Risk_Parity />} /> */}
-          <Route path="/tokenomics" element={<Tokenomics />} />
-          <Route path="/teams" element={<Teams />} />
+          {/* <Route path="/tokenomics" element={<Tokenomics />} /> */}
+          {/* <Route path="/teams" element={<Teams />} /> */}
           <Route path="/" element={<Navigate replace to="/home" />} />
         </Routes>
       </div>
