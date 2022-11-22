@@ -1,11 +1,16 @@
 import logo from './logo.svg';
+import dfuse_1 from './Assets/dfuse_logo_horizontal.svg'
+import dfuse_2 from './Assets/dfuse_logo_vertical.svg'
 import './App.css';
 
-function App() {
+function A() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={dfuse_1} className="App-logo" alt="logo" /> */}
+        {/* <img src={dfuse_2} className="App-logo" alt="logo" /> */}
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -22,4 +27,4 @@ function App() {
   );
 }
 
-export default App;
+export default A;
