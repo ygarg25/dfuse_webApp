@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dfuse_webApp/static/css/main.b4273de3.css",
-    "main.js": "/dfuse_webApp/static/js/main.3156814f.js",
+    "main.js": "/dfuse_webApp/static/js/main.18f987a7.js",
     "static/js/787.05b7aad6.chunk.js": "/dfuse_webApp/static/js/787.05b7aad6.chunk.js",
     "static/media/web-Banner-bg.jpeg": "/dfuse_webApp/static/media/web-Banner-bg.e9bcf6e5d7254a11feb7.jpeg",
     "static/media/how_it_work_bg.png": "/dfuse_webApp/static/media/how_it_work_bg.f16f5aa2167eb4c06e3f.png",
@@ -17,11 +17,11 @@
     "static/media/logo.svg": "/dfuse_webApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dfuse_webApp/index.html",
     "main.b4273de3.css.map": "/dfuse_webApp/static/css/main.b4273de3.css.map",
-    "main.3156814f.js.map": "/dfuse_webApp/static/js/main.3156814f.js.map",
+    "main.18f987a7.js.map": "/dfuse_webApp/static/js/main.18f987a7.js.map",
     "787.05b7aad6.chunk.js.map": "/dfuse_webApp/static/js/787.05b7aad6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4273de3.css",
-    "static/js/main.3156814f.js"
+    "static/js/main.18f987a7.js"
   ]
 }
