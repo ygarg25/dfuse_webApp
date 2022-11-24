@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4150f6a.css",
-    "main.js": "/static/js/main.c0d8b2cf.js",
-    "static/js/787.05b7aad6.chunk.js": "/static/js/787.05b7aad6.chunk.js",
-    "static/media/web-Banner-bg.jpeg": "/static/media/web-Banner-bg.e9bcf6e5d7254a11feb7.jpeg",
-    "static/media/how_it_work_bg.png": "/static/media/how_it_work_bg.f16f5aa2167eb4c06e3f.png",
-    "static/media/astronaut-PNG.png": "/static/media/astronaut-PNG.9d83b55f4efe2a98ec83.png",
-    "static/media/web-Banner-bg-2.jpeg": "/static/media/web-Banner-bg-2.b28b16572b2f271f90fc.jpeg",
-    "static/media/vault-2.png": "/static/media/vault-2.6d867679cf4468c3d085.png",
-    "static/media/teams_bg.png": "/static/media/teams_bg.4ead473e3df3f2335228.png",
-    "static/media/team.png": "/static/media/team.826517b9dcdbb0e0a0e7.png",
-    "static/media/defuse__complete_logo.png": "/static/media/defuse__complete_logo.93d211a9b6c090cc6e37.png",
-    "static/media/footer_bg.png": "/static/media/footer_bg.8776b4fa326e6c7940a0.png",
-    "index.html": "/index.html",
-    "main.a4150f6a.css.map": "/static/css/main.a4150f6a.css.map",
-    "main.c0d8b2cf.js.map": "/static/js/main.c0d8b2cf.js.map",
-    "787.05b7aad6.chunk.js.map": "/static/js/787.05b7aad6.chunk.js.map"
+    "main.css": "/dfuse_webApp/static/css/main.3b589d12.css",
+    "main.js": "/dfuse_webApp/static/js/main.672892e4.js",
+    "static/js/787.05b7aad6.chunk.js": "/dfuse_webApp/static/js/787.05b7aad6.chunk.js",
+    "static/media/web-Banner-bg.jpeg": "/dfuse_webApp/static/media/web-Banner-bg.e9bcf6e5d7254a11feb7.jpeg",
+    "static/media/how_it_work_bg.png": "/dfuse_webApp/static/media/how_it_work_bg.f16f5aa2167eb4c06e3f.png",
+    "static/media/astronaut-PNG.png": "/dfuse_webApp/static/media/astronaut-PNG.9d83b55f4efe2a98ec83.png",
+    "static/media/web-Banner-bg-2.jpeg": "/dfuse_webApp/static/media/web-Banner-bg-2.b28b16572b2f271f90fc.jpeg",
+    "static/media/vault-2.png": "/dfuse_webApp/static/media/vault-2.6d867679cf4468c3d085.png",
+    "static/media/teams_bg.png": "/dfuse_webApp/static/media/teams_bg.4ead473e3df3f2335228.png",
+    "static/media/team.png": "/dfuse_webApp/static/media/team.826517b9dcdbb0e0a0e7.png",
+    "static/media/defuse__complete_logo.png": "/dfuse_webApp/static/media/defuse__complete_logo.93d211a9b6c090cc6e37.png",
+    "static/media/footer_bg.png": "/dfuse_webApp/static/media/footer_bg.8776b4fa326e6c7940a0.png",
+    "index.html": "/dfuse_webApp/index.html",
+    "main.3b589d12.css.map": "/dfuse_webApp/static/css/main.3b589d12.css.map",
+    "main.672892e4.js.map": "/dfuse_webApp/static/js/main.672892e4.js.map",
+    "787.05b7aad6.chunk.js.map": "/dfuse_webApp/static/js/787.05b7aad6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4150f6a.css",
-    "static/js/main.c0d8b2cf.js"
+    "static/css/main.3b589d12.css",
+    "static/js/main.672892e4.js"
   ]
 }
