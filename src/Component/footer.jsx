@@ -33,7 +33,7 @@ const Footer = () => {
                 </div>
                 {/* <div className="col-md-2 d-none d-md-block p_text">
                     <br />&copy; 2022 All rights reserved. dFuse</div> */}
-                <div className="col-md-12 d-none d-md-block text-right" style={{ textAlign: "right" }}>
+                {/* <div className="col-md-12 d-none d-md-block text-right" style={{ textAlign: "right" }}>
 
                     <a
                         href="#"
@@ -58,7 +58,7 @@ const Footer = () => {
                         <FaDiscord className="" />
                     </a>
 
-                </div >
+                </div > */}
 
 
 
@@ -79,7 +79,7 @@ const Footer = () => {
                     </Link>
                 </div>
 
-                <div className="col-sm-12 d-sm-block d-md-none text-center" style={{ textAlign: "center" }}>
+                {/* <div className="col-sm-12 d-sm-block d-md-none text-center" style={{ textAlign: "center" }}>
 
                     <a
                         href="#"
@@ -104,7 +104,7 @@ const Footer = () => {
                         <FaDiscord className="" />
                     </a>
 
-                </div >
+                </div > */}
                 <div className="col-sm-12 d-sm-block d-md-none p_text text-center">
                     &copy; 2022 All rights reserved. dFuse</div>
 
