@@ -8,8 +8,8 @@ function App() {
     <div className=''>
       <div>
         <Routes>
-          <Route path="/home" element={<HomeScreen />} />
           <Route path="/" element={<Navigate replace to="/home" />} />
+          <Route path="/home" element={<HomeScreen />} />
         </Routes>
       </div>
     </div>
