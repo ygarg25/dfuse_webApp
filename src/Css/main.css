@@ -200,10 +200,10 @@ li + li {
 }
 
 
-@use postcss-preset-env {
+/* @use postcss-preset-env {
   stage: 0;
   autoprefixer: {
     grid: true;
   }
   browsers: last 2 versions
-}
+} */
