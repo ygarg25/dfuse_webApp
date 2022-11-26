@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4150f6a.css",
-    "main.js": "/static/js/main.33aff6ed.js",
+    "main.css": "/static/css/main.0c61efab.css",
+    "main.js": "/static/js/main.065f1bc2.js",
     "static/js/787.05b7aad6.chunk.js": "/static/js/787.05b7aad6.chunk.js",
     "static/media/web-Banner-bg.jpeg": "/static/media/web-Banner-bg.e9bcf6e5d7254a11feb7.jpeg",
     "static/media/how_it_work_bg.png": "/static/media/how_it_work_bg.f16f5aa2167eb4c06e3f.png",
@@ -13,12 +13,12 @@
     "static/media/defuse__complete_logo.png": "/static/media/defuse__complete_logo.93d211a9b6c090cc6e37.png",
     "static/media/footer_bg.png": "/static/media/footer_bg.8776b4fa326e6c7940a0.png",
     "index.html": "/index.html",
-    "main.a4150f6a.css.map": "/static/css/main.a4150f6a.css.map",
-    "main.33aff6ed.js.map": "/static/js/main.33aff6ed.js.map",
+    "main.0c61efab.css.map": "/static/css/main.0c61efab.css.map",
+    "main.065f1bc2.js.map": "/static/js/main.065f1bc2.js.map",
     "787.05b7aad6.chunk.js.map": "/static/js/787.05b7aad6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4150f6a.css",
-    "static/js/main.33aff6ed.js"
+    "static/css/main.0c61efab.css",
+    "static/js/main.065f1bc2.js"
   ]
 }
