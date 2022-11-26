@@ -20,33 +20,28 @@ class Teams extends Component {
                 Before which, team spent 7-8 years in equity quant desks in London and SF. During this time,
                 they spent a few years working in the risk department of a macro hedge fund in London where
                 they were testing strategies on various stress events.
-
-
-                {/* A was the first technical hire of a Y Combinator backed, Ed-tech startup based in Silicon
-                Valley where he was the sole Back End engineer. He took the company to 2M+ paid users. A is a
-                self-taught programmer who wrote his first AI algorithms to automate video gameplay. His next AI
-                automation project was with trading systems and his open source project based on Reinforcement
-                learning featured as one of github’s top 5 projects. A is leading technical development for dFuse
-                <br />
-                <br />
-                B has a CFA, an M.Tech in Computer Science
-                and a MSc in Financial Economics. B has worked as a Quantitative Researcher
-                at a $1B+ AUM systematic hedge fund. B brings an insider’s perspective of quantitative
-                trading environments. He automated the entire trading system at the fund by developing a
-                trade execution algorithm. The system intelligently placed orders, saving around 50% in slippage costs,
-                and cut down the number of traders from 5 to 1. B leads the research and quant efforts at dFuse.
-                He manages the entire pipeline from strategy generation to robustness analysis to capital allocation.
-                <br />
-                <br />
-                A{'&'}B have experience working together and running HFT systems. They have also written market
-                making algorithms for multiple regional centralised exchanges and have a market share of
-                high single digit in multiple crypto markets.
-                <br />
-                <br />
-                C has worked in and co founded startups for 10 years including working with A{'&'}B.
-                He brings in product management and technical experience. He has experience writing
-                smart contracts and has been an active DeFi Yield Farmer since early 2020. */}
             </p>
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <div className="row">
+                <div className="col-12 text-center">
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdBqpPBNRXcj9HKvXwfbzyDIYG_oTPXSlR59flvsKJhgm-xkA/viewform"
+                        target="_blank"
+                    >
+                        <button type="button" className="button-1">Contact Us</button>
+                    </a>
+                </div>
+            </div>
         </div>
     }
 }
