@@ -12,7 +12,17 @@ class Teams extends Component {
             <p
                 className="p_text2"
             >
-                A was the first technical hire of a Y Combinator backed, Ed-tech startup based in Silicon
+                <br />
+                <br />
+                <br />
+
+                Dfuse is built by quant firm which runs multiple quant strategies on cex and dex.
+                Before which, team spent 7-8 years in equity quant desks in London and SF. During this time,
+                they spent a few years working in the risk department of a macro hedge fund in London where
+                they were testing strategies on various stress events.
+
+
+                {/* A was the first technical hire of a Y Combinator backed, Ed-tech startup based in Silicon
                 Valley where he was the sole Back End engineer. He took the company to 2M+ paid users. A is a
                 self-taught programmer who wrote his first AI algorithms to automate video gameplay. His next AI
                 automation project was with trading systems and his open source project based on Reinforcement
@@ -35,7 +45,7 @@ class Teams extends Component {
                 <br />
                 C has worked in and co founded startups for 10 years including working with A{'&'}B.
                 He brings in product management and technical experience. He has experience writing
-                smart contracts and has been an active DeFi Yield Farmer since early 2020.
+                smart contracts and has been an active DeFi Yield Farmer since early 2020. */}
             </p>
         </div>
     }

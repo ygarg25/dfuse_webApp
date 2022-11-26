@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import CoverContent from './cover_content';
 import SideImage from './side_image';
-import About from './about';
+import ForInvestor from './for_investor';
+import ForProtocols from './for_protocols';
 import Teams from './teams';
 import { HashLink as Link } from 'react-router-hash-link';
 import "./../Css/main.css"
@@ -60,7 +61,7 @@ class HomeScreen extends Component {
                     {/* <div className='col-md-1 col-sm-none '></div> */}
                     <div className="col-md-6 d-none d-md-block  p-sm-2 ">
                         <br />
-                        <About />
+                        <ForInvestor />
                     </div>
                     <div
                         className='col-md-6 d-none d-md-block  text-center'
@@ -76,7 +77,34 @@ class HomeScreen extends Component {
                         <SideImage image_src={Vaultimage} cl_name={"vaultimage"} />
                     </div>
                     <div className="col-sm-12 p-sm-2  d-sm-block d-md-none">
-                        <About />
+                        <ForInvestor />
+                    </div>
+                </div>
+            </div>
+            <div
+                className='how_it_work_bg'
+            >
+                <div className="row " style={{ margin: "5em" }}>
+
+                    <div
+                        className='col-md-6 d-none d-md-block  text-center'
+                    >
+                        <SideImage image_src={Vaultimage} cl_name={"vaultimage"} />
+                    </div>
+                    <div className="col-md-6 d-none d-md-block  p-sm-2 ">
+                        <br />
+                        <ForProtocols />
+                    </div>
+
+
+
+                    <div
+                        className='col-sm-12  text-center d-sm-block d-md-none'
+                    >
+                        <SideImage image_src={Vaultimage} cl_name={"vaultimage"} />
+                    </div>
+                    <div className="col-sm-12 p-sm-2  d-sm-block d-md-none">
+                        <ForProtocols />
                     </div>
                 </div>
             </div>

@@ -11,28 +11,38 @@ class CoverContent extends Component {
             <span className="heading1">Hi! We're dFuse</span>
             <p>
                 <br />
-                <span className="heading2" >An Interchain Yield Optimizer on IBC assets.</span>
+                <span className="heading2" >Personal risk analyst for all thing crypto.</span>
                 <br />
                 <br />
                 <span className="p_text">
-                    dFuse is the simplest way to make money from your IBC assets.
-                    dFuse allows you to deploy your ATOM and other tokens into vaults
-                    that earn yield through multiple strategies across all chains.
-                    dFuse takes care of all the hard parts like protecting against
-                    Impermanent loss, maintaining a healthy collateral ratio, auto compounding
-                    and rebalancing your portfolio.
+                    Dfuse does stress testing, incentive optimization and risk management.
+                    Think of us like your personal risk analyst for crypto but modular,
+                    leaner and cheaper. We use years of experience to stress test,
+                    risk management and yield farming to help you prepare for outlier events
+                    which happen in crypto.
                     <br />
                     <br />
-                    <span className="heading3" >We dFuse the risks and stress of DeFi investing.</span>
+                    <span className="heading3" >We dFuse the risks and stress of crypto investor, protocols and yield farmers.</span>
                 </span>
             </p>
             <br />
             <br />
-            <a
-                href="#HowItWorks"
-            >
-                <button type="button" className="button-1">More About Us</button>
-            </a>
+            <div className="row">
+                <div className="col-6">
+                    <a
+                        href="#for_investor"
+                    >
+                        <button type="button" className="button-1">Investor</button>
+                    </a>
+                </div>
+                <div className="col-6 text-right" style={{ alignItems: "right" }}>
+                    <a
+                        href="#for_protocol"
+                    >
+                        <button type="button" className="button-1">Protocol</button>
+                    </a>
+                </div>
+            </div>
         </div>
     }
 }
