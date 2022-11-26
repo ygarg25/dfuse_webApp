@@ -11,12 +11,12 @@ import { BrowserRouter, HashRouter } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <BrowserRouter basename={process.env.PUBLIC_URL || ''}> */}
-    <BrowserRouter basename="/">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      {/* <BrowserRouter basename="/"> */}
       <App />
     </BrowserRouter>
 
-    {/* <HashRouter>
+    {/* <HashRouter basename="/">
       <App />
     </HashRouter> */}
 
