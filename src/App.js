@@ -4,6 +4,10 @@ import HomeScreen from "./Component/home";
 import './Css/App.css';
 
 function App() {
+
+  let basename = process.env.PUBLIC_URL
+
+  console.log("ssssss", basename)
   return (
     <div className=''>
       <div>
