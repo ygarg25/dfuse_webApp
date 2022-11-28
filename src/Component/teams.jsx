@@ -17,7 +17,7 @@ class Teams extends Component {
                 <br />
 
                 Dfuse is built by quant firm which runs multiple quant strategies on cex and dex.
-                Before which, team spent 7-8 years in equity quant desks in London and SF. During this time,
+                Before crypto, team spent 7-8 years in equity quant desks in London and SF. During this time,
                 they spent a few years working in the risk department of a macro hedge fund in London where
                 they were testing strategies on various stress events.
             </p>
