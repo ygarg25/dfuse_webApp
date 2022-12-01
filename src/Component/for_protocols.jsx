@@ -9,26 +9,19 @@ class ForProtocols extends Component {
             className="pt-5"
             style={{ marginRight: "5em" }}
         >
-            <span className="heading1">For Protocol</span>
+            <span className="heading_1">Protocols: How Dfuse Can Help You Achieve Maximum Utility</span>
 
             <p className="p_text pt-5">
-                Dfuse does stress testing and incentive optimization for protocols.
-                We are very more modular, leaner and cheaper as compared to other market players.
-                We use years of experience to stress test protocol design and also help
-                you optimize protocol incentives for maximum protocol utility:
+                Dfuse is a leading provider of stress testing and incentive optimization solutions for protocols.
                 <br />
                 <br />
                 <ol>
-                    <li>Dynamic stress testing for protocols to adjust according to market
-                        condition. If you are lending protocol like Aave,
-                        we help you find optimal LTV, lending and borrow rates dynamically
-                        based on risk. For e.g if liquidity of particular coin on chain has
-                        gone down 50% we will help you adjust lending rate automatically.
-                    </li>
-                    <li>For incentive optimization we will find what is the volume you are
-                        doing based on 1 dollar of emission. We will use things like looking
-                        across other competitors' (cex/dex) pools, your pool volume distribution
-                        and help you optimize to achieve max protocol utility using emission and best tokenomics.</li>
+                    <li>Modular, lean, and cost-effective approach sets us apart from other market players.</li>
+                    <li>Expertise in stress testing and incentive optimization to help your protocol achieve maximum utility.</li>
+                    <li>Dynamic stress testing adjusts to market conditions for optimal LTV, lending and borrow rates.</li>
+                    <li>Incentive optimization uses data from competitors, pool volume distribution, and other factors.</li>
+                    <li>Trust Dfuse to help your protocol succeed in the fast-paced world of crypto.</li>
+
                 </ol>
             </p>
         </div >

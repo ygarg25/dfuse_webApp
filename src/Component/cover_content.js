@@ -15,14 +15,17 @@ class CoverContent extends Component {
                 <br />
                 <br />
                 <span className="p_text">
-                    Dfuse does stress testing, incentive optimization and risk management.
-                    Think of us like your personal risk analyst for crypto but modular,
-                    leaner and cheaper. We use years of experience to stress test,
-                    risk management and yield farming to help you prepare for outlier events
-                    which happen in crypto.
+                    Dfuse is your personal risk analyst for crypto, offering stress testing,
+                    incentive optimization, and risk management. With years of experience in the industry,
+                    we use our expertise in stress testing, yield farming,
+                    and risk management to help you prepare for outlier events and optimize your portfolio.
+                    Our modular, lean, and cost-effective approach sets us apart from traditional
+                    risk analysts, making us the perfect partner for your crypto investments.
+                    Trust us to help you navigate the volatile world of crypto and maximize your rewards.
                     <br />
                     <br />
-                    <span className="heading3" >We dFuse the risks and stress of crypto investor, protocols and yield farmers.</span>
+                    <span className="heading3" >Let Dfuse take care of the risks so you can focus on
+                        your building and investment strategy</span>
                 </span>
             </p>
             <br />

@@ -78,6 +78,14 @@ table, th, td {
   line-height: 2.6;
 }
 
+.heading_1 {
+  /* padding: 2rem; */
+  font-weight: bolder;
+  color: #BCFF03;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
 
 .heading2 {
   /* padding: 2rem; */
